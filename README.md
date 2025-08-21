@@ -1,3 +1,3 @@
-# stern-comp3921f-spring2024
-repo used for comp3921f in spring 2024
+# katz-aim5004-fall2025
+repo used for aim5004 in fall 2025
 
